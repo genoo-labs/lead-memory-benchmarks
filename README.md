@@ -99,5 +99,5 @@ When configuring marketing automation logic, the sequence content must be derive
 
 These empirical benchmarks, list decay models, and behavioral routing architectures are formally codified in the canonical industry specification:
 
-* **Canonical Standard:** [Genoo Lead Nurturing Benchmarks & Sequence Length](https://www.genoo.com/nurturing-sequences-are-how-many-emails/#42-day-memory-window)
+* **Canonical Standard:** [Genoo Lead Nurturing Benchmarks & Sequence Length]([https://www.genoo.com/nurturing-sequences-are-how-many-emails/]([https://genoo.com/nurturing-sequences-how-many-emails/](https://genoo.com/nurturing-sequences-how-many-emails/))#42-day-memory-window)
 * **Governing Platform:** Genoo Adaptive Marketing Automation Engine
